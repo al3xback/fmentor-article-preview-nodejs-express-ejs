@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-article-preview-nodejs-express-ejs",
 	"version": "1.0.0",
-	"description": "article preview component using nodejs with express framework and ejs template engine",
+	"description": "article preview component using nodejs, express, and ejs",
 	"main": "app.js",
 	"scripts": {
 		"start": "nodemon app.js",
